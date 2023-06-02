@@ -1,9 +1,6 @@
 import { Text, TextInput, View, StyleSheet } from "react-native";
 import React, { useState } from 'react';
 
-
-
-
 const TelaNoticiaComponent = () => {
     const [pesquisa, setpesquisa] = useState('');
 
